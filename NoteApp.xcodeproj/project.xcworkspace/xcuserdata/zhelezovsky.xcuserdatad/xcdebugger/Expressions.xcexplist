@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "NoteTableView.tableView(_:cellForRowAt:):NoteTableView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "thisNote.title">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "noteCell.titleLabel">
+            </PersistentString>
+            <PersistentString
+               value = "type(of: thisNote)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NoteDetailVC.saveAction(_:):NoteDetailVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "newNote.desc">
+            </PersistentString>
+            <PersistentString
+               value = "noteList">
+            </PersistentString>
+            <PersistentString
+               value = "newNote.id">
+            </PersistentString>
+            <PersistentString
+               value = "newNote.title">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
